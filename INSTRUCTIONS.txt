@@ -13,3 +13,5 @@ Once you have completed the above instructions, restart all Vim instances to see
 your new environment.
 
 Thank you for using sachet.
+This config has been modified by Ch AFleks using a sachet configuration.
+Follow me on twitter @chafleks
