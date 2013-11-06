@@ -1,5 +1,5 @@
 set nocompatible
-scall pathogen#infect()
+call pathogen#infect()
 call pathogen#helptags()
 set hidden
 set wildmenu
